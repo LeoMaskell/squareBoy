@@ -1,2 +1,2 @@
 # macropad
-macropad from the kit
+macropad from the website hackpad.hackclub.com
