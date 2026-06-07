@@ -645,15 +645,15 @@
       {
         "filename": "pcb.kicad_sch",
         "name": "Root",
-        "uuid": "e6d795fb-7e92-4d5d-9561-85e1caea878a"
+        "uuid": "59708626-4ab8-419a-90cc-374a322ca867"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D1-12,U1-2,SW1-10,J1",
     "variants": []
   },
   "sheets": [
     [
-      "e6d795fb-7e92-4d5d-9561-85e1caea878a",
+      "59708626-4ab8-419a-90cc-374a322ca867",
       "Root"
     ]
   ],
