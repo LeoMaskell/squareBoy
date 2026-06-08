@@ -5,6 +5,8 @@ a macropad! Yet to get the stuff from hackclub as the form is down.
 
 ## shell:
 - made of abs plastic, constructed with 2 parts, the base and the lid and 4x m3 screws
+- onshape document: https://cad.onshape.com/documents/8ea4270e3df64d720bc8c49e/w/e0b07a3a483165cebf54e193/e/cd51b0c8f39a18b2551e130c
+
 
 ## PCB:
 - designed in kicad
