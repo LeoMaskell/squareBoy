@@ -21,10 +21,10 @@ a macropad! Yet to get the stuff from hackclub as the form is down.
 - 1x 0.91 inch OLED display (the pin order is GND-VCC-SCL-SDA, MAKE SURE YOUR PCB MATCHES)
 - 9x white blank DSA keycaps
 - 4x M3x16mm screws
-<img width="909" height="454" alt="kit" src="https://github.com/user-attachments/assets/d499be14-9eec-4cb4-9642-42246ddaffd3" />
 - 1 PCB
 - 2 3d printed parts for the case (dark blue ABS for base plate, light blue ABS for top of shell)
   
+<img width="909" height="454" alt="kit" src="https://github.com/user-attachments/assets/d499be14-9eec-4cb4-9642-42246ddaffd3" />
 ## credits:
 - macropad from the website hackpad.hackclub.com -> alex ren, dari.zone
 - kicad
