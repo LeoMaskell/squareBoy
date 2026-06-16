@@ -1,5 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "Rotary_Encoder.pretty(1)") (type "KiCad") (uri "/home/leo/Documents/hackclub stuff/macropad/pcb/Rotary_Encoder.pretty(1)") (options "") (descr ""))
-	(lib (name "footprints") (type "KiCad") (uri "/home/leo/Documents/hackclub stuff/macropad/pcb/kicad_care_package(2)/kicad_care_package/footprints.pretty") (options "") (descr ""))
-)
