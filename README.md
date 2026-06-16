@@ -25,6 +25,7 @@ a macropad! Yet to get the stuff from hackclub as the form is down.
 - 2 3d printed parts for the case (dark blue ABS for base plate, light blue ABS for top of shell)
   
 <img width="909" height="454" alt="kit" src="https://github.com/user-attachments/assets/d499be14-9eec-4cb4-9642-42246ddaffd3" />
+
 ## credits:
 - macropad from the website hackpad.hackclub.com -> alex ren, dari.zone
 - kicad
